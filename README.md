@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ShwetaJadhav12
 - 👀 I’m interested in Android development,tech based projects and coding
-- 🌱 I’m currently learning  Kotlin,Java,pyhthon for Machine Learning
+- 🌱 I’m currently learning  Kotlin,Java,python for Machine Learning
 - 📫 How to reach me linkedin https://www.linkedin.com/in/shweta-jadhav-9510b5292/
