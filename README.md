@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning  Kotlin,Android Jetpack,python for Machine Learning
 - 📫 How to reach me linkedin https://www.linkedin.com/in/shweta-jadhav-9510b5292/
 - 😄 Pronouns:she/her
+
+
