@@ -11,8 +11,11 @@
 ## 🚀 Skills:
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/Java-yellow?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=flat&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-%2300599C?style=flat&logo=c)
+
 
 ---
 
