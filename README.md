@@ -7,6 +7,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShwetaJadhav12&theme=dark)
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShwetaJadhav12)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 Skills:
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
