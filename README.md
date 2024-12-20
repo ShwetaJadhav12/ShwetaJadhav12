@@ -1,9 +1,10 @@
 # Hi there 👋, I'm Shweta Jadhav
 
+![Profile Picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freelancer.co.th%2Farticles%2Fprogramming&psig=AOvVaw1VGI1WzIrd-22nKMPy2fUN&ust=1734804957279000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDKyN76tooDFQAAAAAdAAAAABAR)
+![GitHub Views](https://komarev.com/ghpvc/?username=ShwetaJadhav12)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShwetaJadhav12&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaJadhav12&layout=compact&theme=dark)
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShwetaJadhav12&theme=dark)
 
@@ -17,7 +18,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=flat&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-%2300599C?style=flat&logo=c)
-
 
 ---
 
@@ -34,5 +34,4 @@
 ## 📊 Contribution Graph:
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark)
 
----
 
