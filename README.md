@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Shweta Jadhav
 
-![Profile Picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freelancer.co.th%2Farticles%2Fprogramming&psig=AOvVaw1VGI1WzIrd-22nKMPy2fUN&ust=1734804957279000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDKyN76tooDFQAAAAAdAAAAABAR)
 ![GitHub Views](https://komarev.com/ghpvc/?username=ShwetaJadhav12)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShwetaJadhav12&show_icons=true&theme=dark)
 
