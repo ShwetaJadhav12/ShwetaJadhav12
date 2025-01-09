@@ -9,7 +9,7 @@
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShwetaJadhav12)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🚀 Skills:
+## 🚀 Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
@@ -31,5 +31,3 @@
 
 ## 📊 Contribution Graph:
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark)
-
-
