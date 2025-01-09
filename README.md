@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Shweta Jadhav
 
-![GitHub Views](https://komarev.com/ghpvc/?username=ShwetaJadhav12)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShwetaJadhav12&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaJadhav12&layout=compact&theme=dark)
