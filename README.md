@@ -10,12 +10,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShwetaJadhav12)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 Tech Stack:
-![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=flat&logo=kotlin)
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-%2300599C?style=flat&logo=c)
+
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white)  
 
 ---
 
