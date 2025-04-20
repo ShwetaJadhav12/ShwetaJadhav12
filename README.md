@@ -7,14 +7,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShwetaJadhav12&theme=dark&hide_border=true)
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShwetaJadhav12)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏆 GitHub Trophies
+## 🚀 Tech Stack:
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ShwetaJadhav12&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🚀 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)  
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)  
@@ -25,8 +21,7 @@
 
 ---
 
-## 🌐 Connect with Me
-
+## 🌐 Connect with Me:
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
@@ -36,8 +31,5 @@
 
 ---
 
-## 📊 GitHub Contribution Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ShwetaJadhav12&theme=github)
-
-![Most Productive Times](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShwetaJadhav12&theme=github_dark)
+## 📊 Contribution Graph:
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark) ad dmore
