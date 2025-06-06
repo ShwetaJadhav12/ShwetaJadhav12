@@ -37,12 +37,4 @@
 
 ---
 
-## 🏅 Achievements
-
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/cowboy-default.png" width="80" title="Cowboy Coder" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO" />
-</p>
 
