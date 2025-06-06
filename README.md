@@ -21,6 +21,7 @@
 ---
 
 ## 🌐 Connect with Me:
+
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
@@ -31,12 +32,21 @@
 ---
 
 ## 📊 Contribution Graph:
+
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark)
 
 ---
 
-## 🔁 Pull Request Activity Stickers:
+## 🧩 Pull Request & GitHub Activity Badges
 
-![PRs Open](https://img.shields.io/badge/Pull%20Requests-Open-blue?style=for-the-badge&logo=git)
-![PRs Merged](https://img.shields.io/badge/Pull%20Requests-Merged-brightgreen?style=for-the-badge&logo=github)
-![PRs Closed](https://img.shields.io/badge/Pull%20Requests-Closed-red?style=for-the-badge&logo=github)
+<p align="left">
+  <img src="https://img.shields.io/badge/Pull%20Requests-Open-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-Merged-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-Closed-red?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Issues-Handled-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Forks-Welcome-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-Appreciated-yellow?style=for-the-badge&logo=github" />
+</p>
