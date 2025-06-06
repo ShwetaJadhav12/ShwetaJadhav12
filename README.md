@@ -11,7 +11,6 @@
 
 ## 🚀 Tech Stack:
 
-
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)  
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)  
@@ -32,4 +31,12 @@
 ---
 
 ## 📊 Contribution Graph:
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark) ad dmore
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark)
+
+---
+
+## 🔁 Pull Request Activity Stickers:
+
+![PRs Open](https://img.shields.io/badge/Pull%20Requests-Open-blue?style=for-the-badge&logo=git)
+![PRs Merged](https://img.shields.io/badge/Pull%20Requests-Merged-brightgreen?style=for-the-badge&logo=github)
+![PRs Closed](https://img.shields.io/badge/Pull%20Requests-Closed-red?style=for-the-badge&logo=github)
