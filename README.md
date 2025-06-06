@@ -37,16 +37,12 @@
 
 ---
 
-## 🧩 Pull Request & GitHub Activity Badges
+## 🏅 Achievements
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Pull%20Requests-Open-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-Merged-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-Closed-red?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/cowboy-default.png" width="80" title="Cowboy Coder" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Issues-Handled-orange?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Forks-Welcome-blueviolet?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-Appreciated-yellow?style=for-the-badge&logo=github" />
-</p>
