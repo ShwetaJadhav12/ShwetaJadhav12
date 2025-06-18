@@ -37,7 +37,7 @@ I’m a passionate developer with a love for building real-world solutions using
 ## 🌱 Currently Learning
 
 - Advanced Jetpack Compose & MVVM Architecture  
-- DSA in Java (Coding Ninjas)
+- DSA in Java 
 
 ---
 
