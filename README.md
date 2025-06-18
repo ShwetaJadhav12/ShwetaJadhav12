@@ -1,42 +1,34 @@
 # Hi there 👋, I'm Shweta Jadhav
 
-I’m a passionate developer with a love for building real-world solutions using **Java, Kotlin, Python**, and **modern Android development**. Currently focused on **Jetpack Compose, Room DB**, and backend integrations using **Node.js & Firebase**. I enjoy solving problems, designing smooth UIs, and learning new tech!
+I’m a passionate developer with a love for building real-world solutions using **Java, Kotlin, Python**, and **modern Android development**. Currently focused on **Jetpack Compose, Room DB**, and backend integrations using **Firebase**. I enjoy solving problems, designing smooth UIs, and learning new tech!
 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShwetaJadhav12&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaJadhav12&layout=compact&theme=dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShwetaJadhav12&theme=dark&hide_border=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShwetaJadhav12&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🚀 Tech Stack:
+## 🚀 Tech Stack
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white)
-
-**Backend / DB**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-
-**Languages**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" style="margin: 10px;"/>
+</p>
 
 ---
 
@@ -61,5 +53,3 @@ I’m a passionate developer with a love for building real-world solutions using
 ## 📊 Contribution Graph
 
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark)
-
-
