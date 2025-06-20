@@ -8,7 +8,7 @@ I’m a passionate developer with a love for building real-world solutions using
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaJadhav12&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShwetaJadhav12&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ShwetaJadhav12&theme=dark&hide_border=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShwetaJadhav12&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
