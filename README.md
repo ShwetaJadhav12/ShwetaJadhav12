@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shweta Jadhav
 
-I’m a passionate developer with a love for building real-world solutions using **Java, Kotlin, Python**, and **modern Android development**. Currently focused on **Jetpack Compose, Room DB**, and backend integrations using **Firebase**. I enjoy solving problems, designing smooth UIs, and learning new tech!
+I’m a Computer Engineering student with a love for building real-world solutions using **Java, Kotlin, Python**, and **modern Android development**. Currently focused on **Jetpack Compose, Room DB**, and backend integrations using **Firebase**. I enjoy solving problems, designing smooth UIs, and learning new tech!
 
 ---
 
@@ -8,7 +8,7 @@ I’m a passionate developer with a love for building real-world solutions using
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShwetaJadhav12&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ShwetaJadhav12&theme=dark&hide_border=true)
+![Shweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShwetaJadhav12&show_icons=true&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShwetaJadhav12&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
