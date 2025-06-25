@@ -72,4 +72,6 @@ I’m a Computer Engineering student passionate about building real-world soluti
 
 ## 📊 Contribution Graph
 
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark" alt="GitHub Summary" />
+</p>
