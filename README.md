@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Shweta Jadhav
 
 I’m a Computer Engineering student with a love for building real-world solutions using **Java, Kotlin, Python**, and **modern Android development**. Currently focused on **Jetpack Compose, Room DB**, and backend integrations using **Firebase**. I enjoy solving problems, designing smooth UIs, and learning new tech!
-
-🎓 **Computer Engineering, Division E**  
-📍 **Pune Institute of Computer Technology (PICT)**
+  
+📍 **Pimpri Chinchwad College of Engineering(PCCOE)**
 
 ---
 
