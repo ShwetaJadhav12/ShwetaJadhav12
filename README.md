@@ -14,7 +14,7 @@ I enjoy solving problems, designing smooth UIs, and learning new tech!
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShwetaJadhav12&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShwetaJadhav12&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShwetaJadhav12&theme=tokyonight&hide_border=true)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ShwetaJadhav12&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
