@@ -66,13 +66,13 @@
 ### 🧠 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/ShwetaJadhav12/" target="_blank">
+  <a href="https://leetcode.com/u/F8hOSt3GA9/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/ShwetaJadhav12" target="_blank">
+  <a href="https://www.codechef.com/users/shweta_1205" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/ShwetaJadhav12" target="_blank">
+  <a href="https://www.hackerrank.com/profile/ShwetaJadhav12" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
