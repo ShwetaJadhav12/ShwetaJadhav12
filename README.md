@@ -1,75 +1,60 @@
-<h1 align="center">Hi there 👋, I'm Shweta Jadhav</h1>
+<h1 align="center">👋 Hi, I'm Shweta Jadhav</h1>
 
 <p align="center">
-  🚀 Passionate Android Developer | 👩‍💻 Java • Kotlin • Python | 📱 Jetpack Compose Enthusiast  
-</p>
-
-<p align="center">
-  <b>Computer Engineering Student at Pimpri Chinchwad College of Engineering (PCCOE)</b>
+  <b>📱 Android Developer | 💻 Java & Kotlin Enthusiast | 🎓 Computer Engineering Student</b><br>
+  <i>Building real-world apps with Jetpack Compose, Firebase, and Room</i>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👩‍💻 About Me
 
-- 🎓 I’m a Computer Engineering student
-- 💡 I love turning ideas into impactful solutions using modern tech
-- 🛠️ Currently focused on **Jetpack Compose**, **Room DB**, and **Firebase**
-- 🌱 Improving my **DSA skills** in Java for better problem solving
-- 🎯 Actively building Android apps with clean architecture and sleek UI/UX
-- 💬 Ask me about anything related to Android, Firebase, or Java/Kotlin
+- 🎓 Pursuing Computer Engineering at **PCCOE, Pune**
+- 🔭 Currently focused on **Jetpack Compose**, **MVVM**, and **Room DB**
+- 💬 I love working on real-time apps with Firebase and clean UI/UX
+- 🌱 Learning **DSA in Java** and strengthening core problem-solving
+- 🛠️ Tech I enjoy: Kotlin, Java, Python, Firebase, Compose
 
 ---
 
-### 🚀 Tech Stack
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,firebase,mysql,git,github,androidstudio,vscode,html,css,js" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShwetaJadhav12&show_icons=true&theme=dark" width="47%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShwetaJadhav12&layout=compact&theme=dark" width="47%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShwetaJadhav12&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShwetaJadhav12&layout=compact&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaJadhav12&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaJadhav12&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShwetaJadhav12&theme=gruvbox&margin-w=10&no-bg=true&no-frame=true"/>
-</p>
-
----
-
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShwetaJadhav12&theme=monokai&row=1&margin-w=15" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌱 Currently Learning
+
+- Advanced Jetpack Compose
+- MVVM Architecture Patterns
+- Data Structures & Algorithms in Java
+
+---
+
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shwetajadhav12/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shwetajadhav.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -78,7 +63,7 @@
 
 ---
 
-### 💻 Coding Profiles
+### 🧠 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/ShwetaJadhav12/" target="_blank">
@@ -93,3 +78,9 @@
 </p>
 
 ---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark" />
+</p>
