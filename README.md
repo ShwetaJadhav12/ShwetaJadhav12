@@ -28,12 +28,12 @@
 ### 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShwetaJadhav12&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShwetaJadhav12&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShwetaJadhav12&show_icons=true&theme=radical&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShwetaJadhav12&layout=compact&theme=radical&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShwetaJadhav12&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShwetaJadhav12&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -82,5 +82,5 @@
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShwetaJadhav12&theme=github_dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ShwetaJadhav12&theme=react-dark" />
 </p>
