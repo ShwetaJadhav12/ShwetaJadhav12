@@ -45,7 +45,6 @@
 ### 🌱 Currently Learning
 
 - Advanced Jetpack Compose
-- MVVM Architecture Patterns
 - Data Structures & Algorithms in Java
 
 ---
