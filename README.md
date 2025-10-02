@@ -52,7 +52,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shwetajadhav12/" target="_blank">
+  <a href="[https://www.linkedin.com/in/shwetajadhav12/](https://www.linkedin.com/in/shweta-jadhav-9510b5292/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shwetajadhav.dev@gmail.com">
