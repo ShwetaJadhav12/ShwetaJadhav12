@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Pursuing Computer Engineering at **PCCOE, Pune**
-- 🔭 Currently focused on **Jetpack Compose**, **MVVM**, and **Room DB**
+- 🔭 Currently focused on **React** and **MERN Stack**
 - 💬 I love working on real-time apps with Firebase and clean UI/UX
 - 🌱 Learning **DSA in Java** and strengthening core problem-solving
 - 🛠️ Tech I enjoy: Kotlin, Java, Python, Firebase, Compose
