@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Shweta Jadhav</h1>
+<h1 align="center">👋 Hi, I'm Shweta</h1>
 
 <p align="center">
   <b>📱 Android Developer | 💻 Java & Kotlin Enthusiast | 🎓 Computer Engineering Student</b><br>
