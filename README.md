@@ -20,9 +20,8 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,firebase,mysql,git,github,androidstudio,vscode,html,css,js" />
-  <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/61d847df-2fa7-490c-be69-18390eb543df" />
-  <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/6d09741b-24d7-4456-8a96-c4652e7be00c" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,firebase,mysql,git,github,androidstudio,vscode,html,css,js,react" />
+  
 
 
 </p>
